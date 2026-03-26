@@ -131,7 +131,7 @@ Feel free to fork this repository and improve it!
 
 **Swetha Challa**
 📧 [swethareddychalla09@gmail.com](mailto:swethareddychalla09@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/challa-swetha/) | GitHub
+🔗 [LinkedIn](https://www.linkedin.com/in/challa-swetha/) |[ GitHub](https://github.com/challa-swetha)
 
 ---
 
