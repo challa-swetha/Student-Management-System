@@ -1,5 +1,4 @@
-# Student-Management-System
-Java + MySQL CRUD Application
+
 # 🎓 Student Management System (Java + MySQL)
 
 ## 📌 Description
