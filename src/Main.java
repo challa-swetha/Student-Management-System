@@ -1,8 +1,7 @@
 import java.util.List;
 import java.util.Scanner;
 
-public class 1
-raMain {
+public class Main {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
