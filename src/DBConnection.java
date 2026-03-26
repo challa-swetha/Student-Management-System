@@ -8,7 +8,7 @@ public class DBConnection {
     private static final String USER = "root";
 
     // Read password from system environment variable
-    private static final String PASSWORD = System.getenv("DB_PASSWORD");
+    private static final String PASSWORD = System.getenv("DB_PASSWORD");private static final String PASSWORD = System.getenv("DB_PASSWORD");
 
     public static Connection getConnection() {
         try {
